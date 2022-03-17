@@ -2,6 +2,6 @@
     <head> 
     </head>          
     <body> 
-        <h1>Inserindo um novo branch!</h1> 
+        <h1>Alterando o arquivo no ramo Feature!</h1> 
     </body>          
 </html>
